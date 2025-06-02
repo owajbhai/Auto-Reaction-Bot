@@ -54,10 +54,10 @@ async function onUpdate(data, botApi, Reactions, RestrictedChats, botUsername, R
                     { "text": "➕ Add to Group ➕", "url": `https://t.me/${botUsername}?startgroup=botstart` },
                 ],
                 [
-                    { "text": "Github Source 📥", "url": "https://github.com/Malith-Rukshan/Auto-Reaction-Bot" },
+                    { "text": "Github Source 📥", "url": "https://t.me/premiumuseronly_Bot" },
                 ],
                 [
-                    { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/Auto_ReactionBOT?start=donate" }
+                    { "text": "💝 Support Us - Donate 🤝", "url": "https://t.me/ReactionAuto1_bot?start=donate" }
                 ]
             ]);
         } else if (data.message && text === '/reactions') {
